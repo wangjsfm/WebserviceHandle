@@ -8,4 +8,4 @@ startTime = '2019/11/15'
 endTime = '2019/12/16'
 
 data  = client.service.GetRealValue(pointID=point)
-print(data)
+print(data,'2')
